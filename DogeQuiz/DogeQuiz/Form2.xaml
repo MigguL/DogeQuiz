@@ -1,0 +1,85 @@
+﻿<Window x:Class="DogeQuiz.Form2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DogeQuiz"
+        mc:Ignorable="d"
+        Title="DogeQuiz" Height="768" Width="1024" ResizeMode="NoResize">
+    <Grid>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="Resources/Form2/background2.png"/>
+        </Grid.Background>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+
+        <Image x:Name="logo" Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="5" Source="Resources\logo.png"/>
+
+        <Image x:Name="dogsQuizImg" Grid.Column="1" Grid.Row="1"
+               Grid.ColumnSpan="1"  Grid.RowSpan="1" 
+               Height="400" Width="300"/>
+
+        <Button x:Name="questionsBox" Grid.Column="2" Grid.Row="1" Height="250" Width="412" Grid.ColumnSpan="1" Style="{StaticResource TxtBlock}"  Margin="10,10,10,10">
+            <TextBlock x:Name="questionBoxText" FontSize="24" TextWrapping="Wrap" />
+        </Button>
+
+        <!--checkboxes-->
+        <CheckBox x:Name="CheckBoxA" Grid.Column="1" Grid.Row="3" Margin="0,30,0,0" Checked="CheckBoxA_Checked" HorizontalAlignment="Center">
+            <CheckBox.LayoutTransform>
+                <ScaleTransform ScaleX="2" ScaleY="2"/>
+            </CheckBox.LayoutTransform>
+        </CheckBox>
+
+        <CheckBox x:Name="CheckBoxB" Grid.Column="2" Grid.Row="3" Margin="0,30,0,0" Checked="CheckBoxB_Checked" HorizontalAlignment="Center">
+            <CheckBox.LayoutTransform>
+                <ScaleTransform ScaleX="2" ScaleY="2"/>
+            </CheckBox.LayoutTransform>
+        </CheckBox>
+
+        <CheckBox x:Name="CheckBoxC" Grid.Column="3" Grid.Row="3" Grid.ColumnSpan="1" Margin="0,30,0,0" Checked="CheckBoxC_Checked" HorizontalAlignment="Center">
+            <CheckBox.LayoutTransform>
+                <ScaleTransform ScaleX="2" ScaleY="2"/>
+            </CheckBox.LayoutTransform>
+        </CheckBox>
+
+        <!--answers-->
+
+        <Button x:Name="answerA" Grid.Column="1" Grid.Row="4" Width="195" Height="200" Margin="0,5,5,0"
+                    Style="{StaticResource TxtBlock}">
+            <TextBlock x:Name="answerAText" TextWrapping="Wrap"/>
+        </Button>
+        <Button x:Name="answerB" Grid.Column="2" Grid.Row="4" Width="195" Height="200" Margin="0,5,5,0"
+                   Style="{StaticResource TxtBlock}">
+            <TextBlock x:Name="answerBText" TextWrapping="Wrap"/>
+        </Button>
+        <Button x:Name="answerC" Grid.Column="3" Grid.Row="4" Width="195" Height="200" Margin="0,5,5,0"
+                    Style="{StaticResource TxtBlock}">
+            <TextBlock x:Name="answerCText" TextWrapping="Wrap"/>
+        </Button>
+
+        <!--next question-->
+        <Button x:Name="NextQuestionButton" Grid.Column="3" Grid.Row="1" Content="Dalej" Background="#FF48C148" FontSize="36" Height="100" Click="NextQuestionButton_Click" 
+                Style="{StaticResource NextButton}" />
+
+    </Grid>
+</Window>
+

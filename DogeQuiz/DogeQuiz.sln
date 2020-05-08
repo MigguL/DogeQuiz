@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogeQuiz", "DogeQuiz\DogeQuiz.csproj", "{42E791AC-2B62-4965-A3C8-3EC9ACA0E567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E791AC-2B62-4965-A3C8-3EC9ACA0E567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E791AC-2B62-4965-A3C8-3EC9ACA0E567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E791AC-2B62-4965-A3C8-3EC9ACA0E567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E791AC-2B62-4965-A3C8-3EC9ACA0E567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673B2A9A-3C1E-4BDD-BD51-044E3BED6ED1}
+	EndGlobalSection
+EndGlobal

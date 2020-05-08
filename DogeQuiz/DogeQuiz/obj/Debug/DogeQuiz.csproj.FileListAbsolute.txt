@@ -1,0 +1,10 @@
+C:\Users\Michal\Desktop\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\DogeQuiz\DogeQuiz\obj\Debug\BackButtonStyle.baml
+C:\Users\Michal\Desktop\DogeQuiz\DogeQuiz\obj\Debug\App.baml
+C:\Users\Michal\Desktop\DogeQuiz\DogeQuiz\obj\Debug\Form2.g.cs
+C:\Users\Michal\Desktop\DogeQuiz\DogeQuiz\obj\Debug\Form3.g.cs
+C:\Users\Michal\Desktop\DogeQuiz\DogeQuiz\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\DogeQuiz\DogeQuiz\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_Content.g.cs
+C:\Users\Michal\Desktop\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_MarkupCompile.cache
+C:\Users\Michal\Desktop\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_MarkupCompile.lref
