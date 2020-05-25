@@ -231,3 +231,4 @@ _Pvt_Extensions
 .fake/
 *.binlog
 /.dotnet
+.vscode/ftp-sync.json
