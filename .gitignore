@@ -232,3 +232,4 @@ _Pvt_Extensions
 *.binlog
 /.dotnet
 .vscode/ftp-sync.json
+PHPs/ConnectToDB.php
