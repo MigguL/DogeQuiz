@@ -1,12 +1,7 @@
 ﻿
-
+//Generate data fields
 namespace DogeQuiz
 {
-    public class Questions
-    {
-        public string Question { get; set; }
-    }
-
     public class Answers
     {
         public string AnswerA { get; set; }

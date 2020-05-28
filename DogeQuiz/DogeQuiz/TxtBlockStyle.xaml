@@ -1,11 +1,11 @@
-﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+﻿<!--Answers text stylings-->
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:local="clr-namespace:DogeQuiz">
 
     <Style x:Key="TxtBlock" TargetType="{x:Type Button}">
         <Setter Property="Background" Value="White"/>
         <Setter Property="Foreground" Value="black"/>
-        <!--font color-->
         <Setter Property="FontSize" Value="20"/>
         <Setter Property="FontFamily" Value="Lucida Fax"/>
         <Setter Property="VerticalContentAlignment" Value="Center"/>
@@ -19,7 +19,7 @@
                     BorderThickness="3"
                     BorderBrush="Black" 
                     CornerRadius="10" 
-                    Background="#d3cb54">
+                    Background="#C5D5EA">
                         <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" 
                                           VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
                     </Border>

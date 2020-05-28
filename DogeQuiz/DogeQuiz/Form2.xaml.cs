@@ -1,15 +1,8 @@
-﻿using Microsoft.Data.Sqlite;
-using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
-using System.Linq;
 using System.Media;
-using System.Net;
-using System.Web.Script.Serialization;
 using System.Windows;
 using System.Windows.Media.Imaging;
-using static DogeQuiz.SQLite;
 using static DogeQuiz.MySQL;
 
 namespace DogeQuiz
@@ -21,9 +14,6 @@ namespace DogeQuiz
     /// 
     public partial class Form2 : Window
     {
-        public string qPath = @"Resources\questions.txt";
-        public string aPath = @"Resources\answers.txt";
-        public List<Questions> listOfQuestions = new List<Questions>();
         public List<Answers> listOfAnswers = new List<Answers>();
 
         public int numberOfQuestion = 1,
@@ -35,6 +25,7 @@ namespace DogeQuiz
         public string correctAnswer;
         public int QuestionsCount = GetQuestionsCount();
 
+        //Initialize field with checkbox A
         private void CheckBoxA_Checked(object sender, RoutedEventArgs e)
         {
             guess = listOfAnswers[0].AnswerA;
@@ -42,6 +33,7 @@ namespace DogeQuiz
             CheckBoxC.IsChecked = false;
         }
 
+        //Initialize field with checkbox B
         private void CheckBoxB_Checked(object sender, RoutedEventArgs e)
         {
             guess = listOfAnswers[0].AnswerB;
@@ -49,41 +41,32 @@ namespace DogeQuiz
             CheckBoxC.IsChecked = false;
         }
 
+        //Initialize field with checkbox C
         private void CheckBoxC_Checked(object sender, RoutedEventArgs e)
         {
             guess = listOfAnswers[0].AnswerC;
             CheckBoxA.IsChecked = false;
             CheckBoxB.IsChecked = false;
         }
+
+        //Initialize all window functionalities
         public Form2()
         {
             InitializeComponent();
             LoadQuestionsAndAnswers();
         }
 
+        //Initialize all necessary functionalities for button
         private void NextQuestionButton_Click(object sender, RoutedEventArgs e)
         {
             CheckTheAnswer();
             DisplayNextQuestion();
         }
 
+        //Display first question 
         public void LoadQuestionsAndAnswers()
         {
-            List<string> lines = File.ReadAllLines(qPath).ToList();
-            // reading questions from the text file
-            foreach (var line in lines)
-            {
-                listOfQuestions.Add(new Questions { Question = line });
-            }
-
-
-            //List<string> answers = File.ReadAllLines(aPath).ToList();
-            // reading answers from the text file
-
-
             GetQandA();
-
-            //displaying the first question
             questionBoxText.Text = question;
             answerAText.Text = $" A. {listOfAnswers[0].AnswerA}";
             answerBText.Text = $" B. {listOfAnswers[0].AnswerB}";
@@ -91,6 +74,7 @@ namespace DogeQuiz
             dogsQuizImg.Source = new BitmapImage(new Uri(@"Resources\Form2\image01.jpg", UriKind.Relative));
         }
 
+        //Check answer if it is correct play sound, after check reset all checkboxes fields and passed answer
         public void CheckTheAnswer()
         {
             if (guess == correctAnswer)
@@ -109,6 +93,7 @@ namespace DogeQuiz
             guess = "";
         }
 
+        //Displaying next question by checking number of it and switching between all 10 questions nextly and at the end there is displayed user interaction showing score and playing some sound
         public void DisplayNextQuestion()
         {
             if (numberOfQuestion < QuestionsCount)
@@ -161,38 +146,21 @@ namespace DogeQuiz
             }
         }
 
+        //After clicking score window move the user to the start menu
         public void EndOfQuiz()
         {
-            this.Hide();
+            Hide();
             MainWindow menu = new MainWindow();
             menu.Show();
-            this.Close();
+            Close();
         }
 
 
         public void GetQandA()
         {
-            SqliteConnection sqlite_conn;
-            sqlite_conn = CreateConnection();
-
-            if (tableExists("questions", sqlite_conn) == false)
-            {
-                CreateTable(sqlite_conn);
-                InsertData(sqlite_conn);
-            }
-
             question = GetQuestion(numberOfQuestion);
 
-
-            SqliteDataReader answers_sdr = ReadAnswers(sqlite_conn, numberOfQuestion);
-
             List<string> answers = GetAnswers(numberOfQuestion);
-
-            //while (answers_sdr.Read())
-            //{
-            //    answers.Add(answers_sdr.GetString(0));
-            //    answers.Add(answers_sdr.GetString(1));
-            //}
 
             listOfAnswers = new List<Answers>();
 

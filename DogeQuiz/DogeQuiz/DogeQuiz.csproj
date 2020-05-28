@@ -171,7 +171,6 @@
     <Compile Include="Description.cs" />
     <Compile Include="QuestionClass.cs" />
     <Compile Include="MySQL.cs" />
-    <Compile Include="SQLite.cs" />
     <Page Include="BackButtonStyle.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -243,21 +242,33 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\Sound\correctAnswer.wav" />
-    <Content Include="Resources\Sound\lessthan5.wav" />
-    <Content Include="Resources\Sound\morethan6.wav" />
-    <Resource Include="Resources\questions.txt" />
-    <Resource Include="Resources\logo.png" />
-    <Resource Include="Resources\Form3\dog02\descr02.txt" />
-    <Resource Include="Resources\Form3\dog02\img01.jpg" />
-    <Resource Include="Resources\Form3\dog02\img02.jpg" />
-    <Resource Include="Resources\Form3\dog02\img03.jpg" />
-    <Resource Include="Resources\Form3\dog02\img04.jpg" />
     <Resource Include="Resources\Form3\dog01\descr01.txt" />
     <Resource Include="Resources\Form3\dog01\img01.jpg" />
     <Resource Include="Resources\Form3\dog01\img02.jpg" />
     <Resource Include="Resources\Form3\dog01\img03.jpg" />
     <Resource Include="Resources\Form3\dog01\img04.jpg" />
+    <Resource Include="Resources\Form3\dog02\descr02.txt" />
+    <Resource Include="Resources\Form3\dog02\img01.jpg" />
+    <Resource Include="Resources\Form3\dog02\img02.jpg" />
+    <Resource Include="Resources\Form3\dog02\img03.jpg" />
+    <Resource Include="Resources\Form3\dog02\img04.jpg" />
+    <Resource Include="Resources\Form3\dog05\img04.jpg" />
+    <Resource Include="Resources\Form3\dog05\img03.jpg" />
+    <Resource Include="Resources\Form3\dog05\img02.jpg" />
+    <Resource Include="Resources\Form3\dog05\img01.jpg" />
+    <Resource Include="Resources\Form3\dog05\descr05.txt" />
+    <Resource Include="Resources\Form3\dog04\img04.jpg" />
+    <Resource Include="Resources\Form3\dog04\img03.jpg" />
+    <Resource Include="Resources\Form3\dog04\img02.jpg" />
+    <Resource Include="Resources\Form3\dog04\img01.jpg" />
+    <Resource Include="Resources\Form3\dog04\descr04.txt" />
+    <Resource Include="Resources\Form3\dog03\img04.jpg" />
+    <Resource Include="Resources\Form3\dog03\img03.jpg" />
+    <Resource Include="Resources\Form3\dog03\img02.jpg" />
+    <Resource Include="Resources\Form3\dog03\img01.jpg" />
+    <Resource Include="Resources\Form3\dog03\descr03.txt" />
+    <Resource Include="Resources\Form1\background.png" />
+    <Content Include="Resources\Form1\mainMenu.mp4" />
     <Resource Include="Resources\Form2\background2.png" />
     <Resource Include="Resources\Form2\image01.jpg" />
     <Resource Include="Resources\Form2\image02.jpg" />
@@ -269,9 +280,10 @@
     <Resource Include="Resources\Form2\image08.jpg" />
     <Resource Include="Resources\Form2\image09.jpg" />
     <Resource Include="Resources\Form2\image10.jpg" />
-    <Resource Include="Resources\Form1\background.png" />
-    <Resource Include="Resources\answers.txt" />
-    <Content Include="Resources\Form1\mainMenu.mp4" />
+    <Resource Include="Resources\logo.png" />
+    <Content Include="Resources\Sound\correctAnswer.wav" />
+    <Content Include="Resources\Sound\lessthan5.wav" />
+    <Content Include="Resources\Sound\morethan6.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\SQLitePCLRaw.lib.e_sqlite3.2.0.2\build\net461\SQLitePCLRaw.lib.e_sqlite3.targets" Condition="Exists('..\packages\SQLitePCLRaw.lib.e_sqlite3.2.0.2\build\net461\SQLitePCLRaw.lib.e_sqlite3.targets')" />

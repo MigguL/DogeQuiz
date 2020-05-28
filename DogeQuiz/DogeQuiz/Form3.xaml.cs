@@ -12,14 +12,16 @@ namespace DogeQuiz
     {
         public int numDog = 1;
         public string dPath;
-        Description descr = new Description();
+        readonly Description descr = new Description();
 
+        //Initialize all window functionalities
         public Form3()
         {
             InitializeComponent();
             ShowDog(numDog);
         }
 
+        //Escape click button, after clicking move user to the main menu
         private void ESCButton_Click(object sender, RoutedEventArgs e)
         {
             Hide();
@@ -28,6 +30,7 @@ namespace DogeQuiz
             Close();
         }
 
+        //After clicking button, move to the previous dog description 
         private void PreviousDogDescr_Click(object sender, RoutedEventArgs e)
         {
             if (numDog > 1)
@@ -37,15 +40,17 @@ namespace DogeQuiz
             }
         }
 
+        //After clicking button, move to the next dog description 
         private void NextDogDescr_Click(object sender, RoutedEventArgs e)
         {
-            if (numDog < 2)
+            if (numDog < 5)
             {
                 numDog++;
                 ShowDog(numDog);
             }
         }
 
+        //Displaying all races one by one with the option of scrolling photos
         public void ShowDog(int numDog)
         {
             switch (numDog)
@@ -72,6 +77,42 @@ namespace DogeQuiz
                         img02.Source = new BitmapImage(new Uri(@"Resources\Form3\dog02\img02.jpg", UriKind.Relative));
                         img03.Source = new BitmapImage(new Uri(@"Resources\Form3\dog02\img03.jpg", UriKind.Relative));
                         img04.Source = new BitmapImage(new Uri(@"Resources\Form3\dog02\img04.jpg", UriKind.Relative));
+                        break;
+                    }
+                case 3:
+                    {
+                        dPath = @"Resources\Form3\dog03\descr03.txt";
+                        descr.ReadFile(dPath);
+                        DogDescr.Text = descr.FileText;
+
+                        img01.Source = new BitmapImage(new Uri(@"Resources\Form3\dog03\img01.jpg", UriKind.Relative));
+                        img02.Source = new BitmapImage(new Uri(@"Resources\Form3\dog03\img02.jpg", UriKind.Relative));
+                        img03.Source = new BitmapImage(new Uri(@"Resources\Form3\dog03\img03.jpg", UriKind.Relative));
+                        img04.Source = new BitmapImage(new Uri(@"Resources\Form3\dog03\img04.jpg", UriKind.Relative));
+                        break;
+                    }
+                case 4:
+                    {
+                        dPath = @"Resources\Form3\dog04\descr04.txt";
+                        descr.ReadFile(dPath);
+                        DogDescr.Text = descr.FileText;
+
+                        img01.Source = new BitmapImage(new Uri(@"Resources\Form3\dog04\img01.jpg", UriKind.Relative));
+                        img02.Source = new BitmapImage(new Uri(@"Resources\Form3\dog04\img02.jpg", UriKind.Relative));
+                        img03.Source = new BitmapImage(new Uri(@"Resources\Form3\dog04\img03.jpg", UriKind.Relative));
+                        img04.Source = new BitmapImage(new Uri(@"Resources\Form3\dog04\img04.jpg", UriKind.Relative));
+                        break;
+                    }
+                case 5:
+                    {
+                        dPath = @"Resources\Form3\dog05\descr05.txt";
+                        descr.ReadFile(dPath);
+                        DogDescr.Text = descr.FileText;
+
+                        img01.Source = new BitmapImage(new Uri(@"Resources\Form3\dog05\img01.jpg", UriKind.Relative));
+                        img02.Source = new BitmapImage(new Uri(@"Resources\Form3\dog05\img02.jpg", UriKind.Relative));
+                        img03.Source = new BitmapImage(new Uri(@"Resources\Form3\dog05\img03.jpg", UriKind.Relative));
+                        img04.Source = new BitmapImage(new Uri(@"Resources\Form3\dog05\img04.jpg", UriKind.Relative));
                         break;
                     }
             }
