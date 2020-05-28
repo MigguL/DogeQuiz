@@ -22,7 +22,7 @@ namespace DogeQuiz.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    public class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace DogeQuiz.Properties {
         /// Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("DogeQuiz.Properties.Resources", typeof(Resources).Assembly);
@@ -51,12 +51,57 @@ namespace DogeQuiz.Properties {
         ///   przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Labrador należy do ras psów średnich (samiec liczy ok. 57 cm i waży od 25 do 30 kg). Ma zwartą budowę, szeroką głowę, oczy średniej wielkości oczy i nieduże uszy. Jego cechą charakterystyczną jest twardy i krótki włos oraz gęsta i przylegająca okrywa włosowa, która chroni go przed wilgocią i zimnem..
+        /// </summary>
+        public static string Form3_dog01_descr01 {
+            get {
+                return ResourceManager.GetString("Form3_dog01_descr01", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Jack russell terrier to wytrzymały, aktywny, zwinny pies pracujący o silnym charakterze. Ma ciało średniej długości, jest dłuższy niż wyższy. Oczy są małe, w kształcie migdałów, o bystrym spojrzeniu. Nie mogą być wyłupiaste, powieki mają ściśle przylegać do gałki ocznej..
+        /// </summary>
+        public static string Form3_dog02_descr02 {
+            get {
+                return ResourceManager.GetString("Form3_dog02_descr02", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Owczarek szkocki collie jest pełnym elegancji psem o proporcjonalnej i harmonijnej budowie. Wysokość w kłębie dla samca wynosi 56 – 61 cm przy masie 20 – 29 kg, a dla samicy 51 – 56 cm przy masie 18 – 25 kg. Głowa w kształcie klina zwęża się stopniowo w kierunku nosa..
+        /// </summary>
+        public static string Form3_dog03_descr03 {
+            get {
+                return ResourceManager.GetString("Form3_dog03_descr03", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Owczarek kaukaski to imponujący, masywny pies o mocnej budowie i silnym umięśnieniu. ... Równocześnie są to psy bardzo dumne, mają silny, niezależny charakter z dużym poczuciem własnej godności. Przez wieki pracowały samodzielnie, strzegąc stad owiec lub bydła przed wilkami i niedźwiedziami..
+        /// </summary>
+        public static string Form3_dog04_descr04 {
+            get {
+                return ResourceManager.GetString("Form3_dog04_descr04", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Buldog francuski ze swoją kompaktową i przysadzistą budową ciała sprawia wrażenie muskularnego i silnego psa. Osiąga wysokość 30 cm w kłębie i wagę od 8 do 14 kg. Szczególną uwagę zwracają na siebie duże, stojące „nietoperzowate” uszy na kanciastej głowie oraz charakterystycznie krótka kufa i ogonek..
+        /// </summary>
+        public static string Form3_dog05_descr05 {
+            get {
+                return ResourceManager.GetString("Form3_dog05_descr05", resourceCulture);
             }
         }
     }

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Reflection;
+using System.Resources;
 using System.Windows;
 using System.Windows.Media.Imaging;
 
@@ -57,10 +59,8 @@ namespace DogeQuiz
             {
                 case 1:
                     {
-                        dPath = @"Resources\Form3\dog01\descr01.txt";
-                        descr.ReadFile(dPath);
-                        DogDescr.Text = descr.FileText;
-
+                        DogDescr.Text = Properties.Resources.ResourceManager.GetString("Form3_dog01_descr01");
+                    
                         img01.Source = new BitmapImage(new Uri(@"Resources\Form3\dog01\img01.jpg", UriKind.Relative));
                         img02.Source = new BitmapImage(new Uri(@"Resources\Form3\dog01\img02.jpg", UriKind.Relative));
                         img03.Source = new BitmapImage(new Uri(@"Resources\Form3\dog01\img03.jpg", UriKind.Relative));
@@ -69,9 +69,7 @@ namespace DogeQuiz
                     }
                 case 2:
                     {
-                        dPath = @"Resources\Form3\dog02\descr02.txt";
-                        descr.ReadFile(dPath);
-                        DogDescr.Text = descr.FileText;
+                        DogDescr.Text = Properties.Resources.ResourceManager.GetString("Form3_dog02_descr02");
 
                         img01.Source = new BitmapImage(new Uri(@"Resources\Form3\dog02\img01.jpg", UriKind.Relative));
                         img02.Source = new BitmapImage(new Uri(@"Resources\Form3\dog02\img02.jpg", UriKind.Relative));
@@ -81,9 +79,7 @@ namespace DogeQuiz
                     }
                 case 3:
                     {
-                        dPath = @"Resources\Form3\dog03\descr03.txt";
-                        descr.ReadFile(dPath);
-                        DogDescr.Text = descr.FileText;
+                        DogDescr.Text = Properties.Resources.ResourceManager.GetString("Form3_dog03_descr03");
 
                         img01.Source = new BitmapImage(new Uri(@"Resources\Form3\dog03\img01.jpg", UriKind.Relative));
                         img02.Source = new BitmapImage(new Uri(@"Resources\Form3\dog03\img02.jpg", UriKind.Relative));
@@ -93,9 +89,7 @@ namespace DogeQuiz
                     }
                 case 4:
                     {
-                        dPath = @"Resources\Form3\dog04\descr04.txt";
-                        descr.ReadFile(dPath);
-                        DogDescr.Text = descr.FileText;
+                        DogDescr.Text = Properties.Resources.ResourceManager.GetString("Form3_dog04_descr04");
 
                         img01.Source = new BitmapImage(new Uri(@"Resources\Form3\dog04\img01.jpg", UriKind.Relative));
                         img02.Source = new BitmapImage(new Uri(@"Resources\Form3\dog04\img02.jpg", UriKind.Relative));
@@ -105,9 +99,7 @@ namespace DogeQuiz
                     }
                 case 5:
                     {
-                        dPath = @"Resources\Form3\dog05\descr05.txt";
-                        descr.ReadFile(dPath);
-                        DogDescr.Text = descr.FileText;
+                        DogDescr.Text = Properties.Resources.ResourceManager.GetString("Form3_dog05_descr05");
 
                         img01.Source = new BitmapImage(new Uri(@"Resources\Form3\dog05\img01.jpg", UriKind.Relative));
                         img02.Source = new BitmapImage(new Uri(@"Resources\Form3\dog05\img02.jpg", UriKind.Relative));
