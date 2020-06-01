@@ -36,12 +36,12 @@
         <Button x:Name="DogsButton" Grid.Column="1" Grid.Row="2" Style="{StaticResource MenuButton}"
                  Grid.ColumnSpan="1" Content="Rasy" FontSize="36" Width="200" Height="50" FontFamily="Showcard Gothic" Click="DogsButton_Click"/>
 
-        <MediaElement x:Name="video" Margin="30" Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="4" Grid.RowSpan="4">
+        <MediaElement x:Name="video" Margin="30" Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="4" Grid.RowSpan="4" LoadedBehavior="manual">
             <MediaElement.Triggers>
                 <EventTrigger RoutedEvent="MediaElement.Loaded">
                     <EventTrigger.Actions>
-                        <BeginStoryboard>
-                            <Storyboard>
+                        <BeginStoryboard >
+                            <Storyboard >
                                 <MediaTimeline Source="Resources\Form1\mainMenu.mp4" Storyboard.TargetName="video"
                                  RepeatBehavior="2x" />
                             </Storyboard>

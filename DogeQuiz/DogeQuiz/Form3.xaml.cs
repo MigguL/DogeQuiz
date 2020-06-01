@@ -13,8 +13,6 @@ namespace DogeQuiz
     public partial class Form3 : Window
     {
         public int numDog = 1;
-        public string dPath;
-        readonly Description descr = new Description();
 
         //Initialize all window functionalities
         public Form3()

@@ -14,7 +14,6 @@ namespace DogeQuiz
 
         private void quizButton_Click(object sender, RoutedEventArgs e)
         {
-
             Hide();
             Form2 Game = new Form2();
             Game.ShowDialog();
