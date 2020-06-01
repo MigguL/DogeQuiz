@@ -6,7 +6,7 @@ using System.Web.Script.Serialization;
 
 namespace DogeQuiz
 {
-    class MySQL
+    public class MySQL
     {
         public static int GetQuestionsCount()
         {
