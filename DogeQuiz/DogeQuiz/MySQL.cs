@@ -5,9 +5,14 @@ using System.Net;
 using System.Web.Script.Serialization;
 
 namespace DogeQuiz
-{
+{    /// <summary>
+     /// Class supports MySQL
+     /// </summary>
     public class MySQL
     {
+        /// <summary>
+        /// Method to get JSON data from server about questions countk
+        /// </summary>
         public static int GetQuestionsCount()
         {
             int QuestionsCount = 0;
@@ -20,6 +25,10 @@ namespace DogeQuiz
             return QuestionsCount;
         }
 
+        /// <summary>
+        /// Method to get JSON data from server about question base on question ID
+        /// </summary>
+
         public static string GetQuestion(int numberOfQuestion)
         {
             string Question = "";
@@ -31,6 +40,11 @@ namespace DogeQuiz
             }
             return Question;
         }
+
+        /// <summary>
+        /// Method to get JSON data from server about correct answer base on question ID
+        /// </summary>
+
         public static string GetCorrectAnswer(int numberOfQuestion)
         {
             string CorrectAnswers = "";
@@ -42,6 +56,10 @@ namespace DogeQuiz
             }
             return CorrectAnswers;
         }
+
+        /// <summary>
+        /// Method to get JSON data from server about answers base on question ID
+        /// </summary>
 
         public static List<string> GetAnswers(int numberOfQuestion)
         {

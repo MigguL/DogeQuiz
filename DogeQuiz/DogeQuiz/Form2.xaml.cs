@@ -175,6 +175,5 @@ namespace DogeQuiz
             correctAnswer = GetCorrectAnswer(numberOfQuestion);
             GetAnswers(numberOfQuestion);
         }
-
     }
 }
