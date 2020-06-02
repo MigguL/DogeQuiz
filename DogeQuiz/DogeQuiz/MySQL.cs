@@ -11,12 +11,11 @@ namespace DogeQuiz
     public class MySQL
     {
         /// <summary>
-        /// Method to get JSON data from server about questions count
+        /// Method to get JSON data from server about questions countk
         /// </summary>
         /// <returns>
         /// Integer with count of questions on server
         /// </returns>
-
         public static int GetQuestionsCount()
         {
             int QuestionsCount = 0;
@@ -43,7 +42,8 @@ namespace DogeQuiz
             {
                 string QuestionJSON = wc.DownloadString("https://swiktor.rzeszow.pl/WSIiZ/DogeQuiz/PHPs/GetQuestion.php?question=" + numberOfQuestion);
                 var obj = new JavaScriptSerializer().Deserialize<dynamic>(QuestionJSON);
-                Question = obj["question"];
+                if (obj != null)
+                    Question = obj["question"];
             }
             return Question;
         }

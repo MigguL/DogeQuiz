@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogeQuiz", "DogeQuiz\DogeQuiz.csproj", "{42E791AC-2B62-4965-A3C8-3EC9ACA0E567}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogeQuizTests", "DogeQuizTests\DogeQuizTests.csproj", "{2CBADD5B-0E97-4154-8D87-45DFA93FA50F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{6411B9AA-C709-4770-BD58-5905B3E7BA4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{42E791AC-2B62-4965-A3C8-3EC9ACA0E567}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42E791AC-2B62-4965-A3C8-3EC9ACA0E567}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42E791AC-2B62-4965-A3C8-3EC9ACA0E567}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2CBADD5B-0E97-4154-8D87-45DFA93FA50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2CBADD5B-0E97-4154-8D87-45DFA93FA50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2CBADD5B-0E97-4154-8D87-45DFA93FA50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2CBADD5B-0E97-4154-8D87-45DFA93FA50F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6411B9AA-C709-4770-BD58-5905B3E7BA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6411B9AA-C709-4770-BD58-5905B3E7BA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6411B9AA-C709-4770-BD58-5905B3E7BA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6411B9AA-C709-4770-BD58-5905B3E7BA4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

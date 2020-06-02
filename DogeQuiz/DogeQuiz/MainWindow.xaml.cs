@@ -15,6 +15,7 @@ namespace DogeQuiz
         /// <summary>
         /// Interaction for quiz button
         /// </summary>
+
         private void quizButton_Click(object sender, RoutedEventArgs e)
         {
             Hide();
@@ -23,9 +24,10 @@ namespace DogeQuiz
             Close();
         }
 
-        // <summary>
+        /// <summary>
         /// Interaction for informations about dogs button
         /// </summary>
+
         private void DogsButton_Click(object sender, RoutedEventArgs e)
         {
             Hide();

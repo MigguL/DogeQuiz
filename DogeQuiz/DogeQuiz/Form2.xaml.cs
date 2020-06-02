@@ -11,7 +11,7 @@ namespace DogeQuiz
     /// <summary>
     /// Interaction logic for Form2.xaml
     /// </summary>
- 
+    /// 
     public partial class Form2 : Window
     {
         public List<Answers> listOfAnswers = new List<Answers>();
@@ -56,7 +56,7 @@ namespace DogeQuiz
         }
 
         /// <summary>
-        /// Initialize field with checkbox C
+        /// Initialize all window functionalities
         /// </summary>
         public Form2()
         {
@@ -176,6 +176,7 @@ namespace DogeQuiz
         /// <summary>
         /// Show next question and answers
         /// </summary>
+
         public void GetQandA()
         {
             question = GetQuestion(numberOfQuestion);

@@ -464,3 +464,287 @@ C:\Users\sarap\Desktop\GitHub\DogeQuiz\DogeQuiz\DogeQuiz\bin\Debug\Resources\For
 C:\Users\sarap\Desktop\GitHub\DogeQuiz\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\correctAnswer.wav
 C:\Users\sarap\Desktop\GitHub\DogeQuiz\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\lessthan5.wav
 C:\Users\sarap\Desktop\GitHub\DogeQuiz\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\morethan6.wav
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Form1\mainMenu.mp4
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\correctAnswer.wav
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\lessthan5.wav
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\morethan6.wav
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\DogeQuiz.exe.config
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\DogeQuiz.exe
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\DogeQuiz.pdb
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Buffers.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Memory.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Buffers.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Memory.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\BackButtonStyle.baml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\App.baml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form2.g.cs
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form3.g.cs
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_Content.g.cs
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_MarkupCompile.cache
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_MarkupCompile.lref
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form2.baml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form3.baml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\MenuStyle.baml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\NextButtonStyle.baml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\TxtBlockStyle.baml
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.g.resources
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.Properties.Resources.resources
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csproj.CopyComplete
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.exe
+C:\Users\Michal\Desktop\doxy1\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.pdb
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Form1\mainMenu.mp4
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\correctAnswer.wav
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\lessthan5.wav
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\morethan6.wav
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\DogeQuiz.exe.config
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\DogeQuiz.exe
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\DogeQuiz.pdb
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Buffers.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Memory.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Buffers.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Memory.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\BackButtonStyle.baml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\App.baml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form2.g.cs
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form3.g.cs
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_Content.g.cs
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_MarkupCompile.cache
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_MarkupCompile.lref
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form2.baml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form3.baml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\MenuStyle.baml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\NextButtonStyle.baml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\TxtBlockStyle.baml
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.g.resources
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.Properties.Resources.resources
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csproj.CopyComplete
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.exe
+C:\Users\Michal\Desktop\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.pdb
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Form1\mainMenu.mp4
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\correctAnswer.wav
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\lessthan5.wav
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Resources\Sound\morethan6.wav
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\DogeQuiz.exe.config
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\DogeQuiz.exe
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\DogeQuiz.pdb
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Buffers.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Collections.Immutable.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Memory.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Buffers.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Collections.Immutable.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Memory.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csprojAssemblyReference.cache
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\BackButtonStyle.baml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\MainWindow.baml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\App.baml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form2.g.cs
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form3.g.cs
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\MainWindow.g.cs
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\App.g.cs
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_Content.g.cs
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_MarkupCompile.cache
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz_MarkupCompile.lref
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form2.baml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\Form3.baml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\MenuStyle.baml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\NextButtonStyle.baml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\TxtBlockStyle.baml
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.g.resources
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.Properties.Resources.resources
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csproj.GenerateResource.cache
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csproj.CoreCompileInputs.cache
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.csproj.CopyComplete
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.exe
+C:\Users\sarap\Desktop\TEST4\testy+komentarze\dodane komentarze\DogeQuiz-master\DogeQuiz\DogeQuiz\obj\Debug\DogeQuiz.pdb

@@ -185,7 +185,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Description.cs" />
     <Compile Include="QuestionClass.cs" />
     <Compile Include="MySQL.cs" />
     <Page Include="BackButtonStyle.xaml">
