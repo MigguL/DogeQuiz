@@ -14,14 +14,18 @@ namespace DogeQuiz
     {
         public int numDog = 1;
 
-        //Initialize all window functionalities
+        /// <summary>
+        /// Initialize all window functionalities
+        /// </summary>
         public Form3()
         {
             InitializeComponent();
             ShowDog(numDog);
         }
 
-        //Escape click button, after clicking move user to the main menu
+        /// <summary>
+        /// Interaction for escape button, after clicking move user to the main menu
+        /// </summary>
         private void ESCButton_Click(object sender, RoutedEventArgs e)
         {
             Hide();
@@ -30,7 +34,9 @@ namespace DogeQuiz
             Close();
         }
 
-        //After clicking button, move to the previous dog description 
+        /// <summary>
+        /// After clicking button, move to the previous dog description 
+        /// </summary>
         private void PreviousDogDescr_Click(object sender, RoutedEventArgs e)
         {
             if (numDog > 1)
@@ -40,7 +46,9 @@ namespace DogeQuiz
             }
         }
 
-        //After clicking button, move to the next dog description 
+        /// <summary>
+        /// After clicking button, move to the next dog description 
+        /// </summary>
         private void NextDogDescr_Click(object sender, RoutedEventArgs e)
         {
             if (numDog < 5)
@@ -50,7 +58,9 @@ namespace DogeQuiz
             }
         }
 
-        //Displaying all races one by one with the option of scrolling photos
+        ///<summary>
+        /// Displaying all races one by one with the option of scrolling photos
+        ///</summary>
         public void ShowDog(int numDog)
         {
             switch (numDog)

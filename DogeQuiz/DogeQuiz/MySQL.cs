@@ -11,8 +11,12 @@ namespace DogeQuiz
     public class MySQL
     {
         /// <summary>
-        /// Method to get JSON data from server about questions countk
+        /// Method to get JSON data from server about questions count
         /// </summary>
+        /// <returns>
+        /// Integer with count of questions on server
+        /// </returns>
+
         public static int GetQuestionsCount()
         {
             int QuestionsCount = 0;
@@ -28,6 +32,9 @@ namespace DogeQuiz
         /// <summary>
         /// Method to get JSON data from server about question base on question ID
         /// </summary>
+        /// <returns>
+        /// String with question from server
+        /// </returns>
 
         public static string GetQuestion(int numberOfQuestion)
         {
@@ -44,6 +51,9 @@ namespace DogeQuiz
         /// <summary>
         /// Method to get JSON data from server about correct answer base on question ID
         /// </summary>
+        /// <returns>
+        /// String with correct answer from server
+        /// </returns>
 
         public static string GetCorrectAnswer(int numberOfQuestion)
         {
@@ -60,6 +70,9 @@ namespace DogeQuiz
         /// <summary>
         /// Method to get JSON data from server about answers base on question ID
         /// </summary>
+        /// <returns>
+        /// List of string with answers from server
+        /// </returns>
 
         public static List<string> GetAnswers(int numberOfQuestion)
         {

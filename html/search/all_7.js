@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['main_21',['Main',['../class_doge_quiz_1_1_app.html#a225bc0b6fdc5a88290d783df7a280166',1,'DogeQuiz.App.Main()'],['../class_doge_quiz_1_1_app.html#a225bc0b6fdc5a88290d783df7a280166',1,'DogeQuiz.App.Main()']]],
-  ['mainwindow_22',['MainWindow',['../class_doge_quiz_1_1_main_window.html',1,'DogeQuiz']]],
-  ['mysql_23',['MySQL',['../class_doge_quiz_1_1_my_s_q_l.html',1,'DogeQuiz']]],
-  ['mysqltests_24',['MySQLTests',['../class_doge_quiz_tests_1_1_my_s_q_l_tests.html',1,'DogeQuizTests']]]
+  ['loadquestionsandanswers_25',['LoadQuestionsAndAnswers',['../class_doge_quiz_1_1_form2.html#a0471e6f3ccb9f6563766b13a44d97771',1,'DogeQuiz::Form2']]],
+  ['license_26',['LICENSE',['../md_packages__newtonsoft_8_json_812_80_83__l_i_c_e_n_s_e.html',1,'']]]
 ];

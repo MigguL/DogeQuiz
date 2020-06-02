@@ -11,7 +11,7 @@ namespace DogeQuiz
     /// <summary>
     /// Interaction logic for Form2.xaml
     /// </summary>
-    /// 
+ 
     public partial class Form2 : Window
     {
         public List<Answers> listOfAnswers = new List<Answers>();
@@ -25,7 +25,9 @@ namespace DogeQuiz
         public string correctAnswer;
         public int QuestionsCount = GetQuestionsCount();
 
-        //Initialize field with checkbox A
+        /// <summary>
+        /// Initialize field with checkbox A
+        /// </summary>
         private void CheckBoxA_Checked(object sender, RoutedEventArgs e)
         {
             guess = listOfAnswers[0].AnswerA;
@@ -33,7 +35,9 @@ namespace DogeQuiz
             CheckBoxC.IsChecked = false;
         }
 
-        //Initialize field with checkbox B
+        /// <summary>
+        /// Initialize field with checkbox B
+        /// </summary>
         private void CheckBoxB_Checked(object sender, RoutedEventArgs e)
         {
             guess = listOfAnswers[0].AnswerB;
@@ -41,7 +45,9 @@ namespace DogeQuiz
             CheckBoxC.IsChecked = false;
         }
 
-        //Initialize field with checkbox C
+        /// <summary>
+        /// Initialize field with checkbox C
+        /// </summary>
         private void CheckBoxC_Checked(object sender, RoutedEventArgs e)
         {
             guess = listOfAnswers[0].AnswerC;
@@ -49,21 +55,27 @@ namespace DogeQuiz
             CheckBoxB.IsChecked = false;
         }
 
-        //Initialize all window functionalities
+        /// <summary>
+        /// Initialize field with checkbox C
+        /// </summary>
         public Form2()
         {
             InitializeComponent();
             LoadQuestionsAndAnswers();
         }
 
-        //Initialize all necessary functionalities for button
+        /// <summary>
+        /// Initialize all necessary functionalities for button
+        /// </summary>
         private void NextQuestionButton_Click(object sender, RoutedEventArgs e)
         {
             CheckTheAnswer();
             DisplayNextQuestion();
         }
 
-        //Display first question 
+        /// <summary>
+        /// Load answers and questions
+        /// </summary>
         public void LoadQuestionsAndAnswers()
         {
             GetQandA();
@@ -74,7 +86,9 @@ namespace DogeQuiz
             dogsQuizImg.Source = new BitmapImage(new Uri(@"Resources\Form2\image01.jpg", UriKind.Relative));
         }
 
-        //Check answer if it is correct play sound, after check reset all checkboxes fields and passed answer
+        /// <summary>
+        /// Check answer if it is correct play sound, after check reset all checkboxes fields and passed answer
+        /// </summary>
         public void CheckTheAnswer()
         {
             if (guess == correctAnswer)
@@ -93,7 +107,9 @@ namespace DogeQuiz
             guess = "";
         }
 
-        //Displaying next question by checking number of it and switching between all 10 questions nextly and at the end there is displayed user interaction showing score and playing some sound
+        /// <summary>
+        /// Displaying next question by checking number of it and switching between all 10 questions nextly and at the end there is displayed user interaction showing score and playing some sound
+        /// </summary
         public void DisplayNextQuestion()
         {
             if (numberOfQuestion < QuestionsCount)
@@ -146,7 +162,9 @@ namespace DogeQuiz
             }
         }
 
-        //After clicking score window move the user to the start menu
+        /// <summary>
+        /// After clicking score window move the user to the start menu
+        /// </summary>
         public void EndOfQuiz()
         {
             Hide();
@@ -155,7 +173,9 @@ namespace DogeQuiz
             Close();
         }
 
-
+        /// <summary>
+        /// Show next question and answers
+        /// </summary>
         public void GetQandA()
         {
             question = GetQuestion(numberOfQuestion);

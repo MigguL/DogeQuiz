@@ -1,5 +1,6 @@
-﻿
-//Generate data fields
+﻿/// <summary>
+/// Generate data fields
+/// </summary>
 namespace DogeQuiz
 {
     public class Answers

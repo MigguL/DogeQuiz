@@ -1,4 +1,8 @@
 var searchData=
 [
-  ['initializecomponent_19',['InitializeComponent',['../class_doge_quiz_1_1_app.html#a8e67c53a490655d96aee8899926b04dd',1,'DogeQuiz.App.InitializeComponent()'],['../class_doge_quiz_1_1_app.html#a8e67c53a490655d96aee8899926b04dd',1,'DogeQuiz.App.InitializeComponent()'],['../class_doge_quiz_1_1_form2.html#a34e775822f3b5bed31c6f4b8249e37f8',1,'DogeQuiz.Form2.InitializeComponent()'],['../class_doge_quiz_1_1_form2.html#a34e775822f3b5bed31c6f4b8249e37f8',1,'DogeQuiz.Form2.InitializeComponent()'],['../class_doge_quiz_1_1_form3.html#ae54f8b3665e39fc647bd610befc6f1f6',1,'DogeQuiz.Form3.InitializeComponent()'],['../class_doge_quiz_1_1_form3.html#ae54f8b3665e39fc647bd610befc6f1f6',1,'DogeQuiz.Form3.InitializeComponent()'],['../class_doge_quiz_1_1_main_window.html#af6d87060120360076874ad04b5429bc4',1,'DogeQuiz.MainWindow.InitializeComponent()'],['../class_doge_quiz_1_1_main_window.html#af6d87060120360076874ad04b5429bc4',1,'DogeQuiz.MainWindow.InitializeComponent()']]]
+  ['getanswers_19',['GetAnswers',['../class_doge_quiz_1_1_my_s_q_l.html#ac7e83a250effbc0703947e181748c86f',1,'DogeQuiz::MySQL']]],
+  ['getcorrectanswer_20',['GetCorrectAnswer',['../class_doge_quiz_1_1_my_s_q_l.html#a7106071bd3f27ccc4cb9cd1f44c600fc',1,'DogeQuiz::MySQL']]],
+  ['getqanda_21',['GetQandA',['../class_doge_quiz_1_1_form2.html#a598cea284c4ca121d3c94880559320f0',1,'DogeQuiz::Form2']]],
+  ['getquestion_22',['GetQuestion',['../class_doge_quiz_1_1_my_s_q_l.html#a52836c2eaa8fa09d4d4f2c2729ecf394',1,'DogeQuiz::MySQL']]],
+  ['getquestionscount_23',['GetQuestionsCount',['../class_doge_quiz_1_1_my_s_q_l.html#a63491b6c9313e49415352088e5da4d50',1,'DogeQuiz::MySQL']]]
 ];
