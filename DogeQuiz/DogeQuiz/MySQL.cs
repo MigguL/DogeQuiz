@@ -31,6 +31,7 @@ namespace DogeQuiz
         /// <summary>
         /// Method to get JSON data from server about question base on question ID
         /// </summary>
+        /// <param name="numberOfQuestion">Number of question to get question</param>
         /// <returns>
         /// String with question from server
         /// </returns>
@@ -51,6 +52,7 @@ namespace DogeQuiz
         /// <summary>
         /// Method to get JSON data from server about correct answer base on question ID
         /// </summary>
+        /// <param name="numberOfQuestion">Number of question to get correct answer</param>
         /// <returns>
         /// String with correct answer from server
         /// </returns>
@@ -70,6 +72,7 @@ namespace DogeQuiz
         /// <summary>
         /// Method to get JSON data from server about answers base on question ID
         /// </summary>
+        /// <param name="numberOfQuestion">Number of question to get answers</param>
         /// <returns>
         /// List of string with answers from server
         /// </returns>

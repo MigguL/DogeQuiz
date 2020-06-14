@@ -24,8 +24,8 @@
 */
 var NAVTREE =
 [
-  [ "My Project", "index.html", [
-    [ "LICENSE", "md_packages__newtonsoft_8_json_812_80_83__l_i_c_e_n_s_e.html", null ],
+  [ "DogeQuiz", "index.html", [
+    [ "LICENSE", "md__c_1__users_sarap__desktop__git_hub__doge_quiz__doge_quiz_packages__newtonsoft_8_json_812_80_83__l_i_c_e_n_s_e.html", null ],
     [ "Packages", "namespaces.html", [
       [ "Packages", "namespaces.html", "namespaces_dup" ]
     ] ],
