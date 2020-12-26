@@ -1,2 +1,3 @@
-# DogeQuiz
-Quiz app about dogs, created in .NET using C# and WPF - Programming Project
+## :dart: About the project
+
+DogeQuiz is a quiz app created as University assignment for programming course (built with .NET using C# and WPF)
